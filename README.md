@@ -14,3 +14,7 @@ python app.py
 ```
 *** 
 ### Working of App
+![Image text](static/input.png)
+
+
+![Image text](static/output.png)
